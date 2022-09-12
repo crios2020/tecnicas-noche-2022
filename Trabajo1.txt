@@ -3,8 +3,8 @@ Trabajo 1
 https://tn.com.ar/sociedad/2021/02/08/imc-que-es-y-como-se-calcula/?outputType=amp
 https://www.pagina12.com.ar/297175-coronavirus-cuando-el-sobrepeso-significa-ser-grupo-de-riesg
 
-1 - Leer las nota
-2 - Armar un programa sobre dicha nota.
+1 - Leer las notas
+2 - Armar un programa sobre dichas notas.
         a - Determinar cuales son los datos de entrada para el imc.
         b - Calcular el IMC.
         c - Calcular estado (Delgadez - Normal - Obesidad etc)
